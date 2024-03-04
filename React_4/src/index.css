@@ -1,0 +1,19 @@
+.round {
+  border-radius: 1rem;
+}
+
+.round1 {
+  border-radius: 1.5rem;
+}
+
+.round2 {
+  border-radius: 2rem;
+}
+
+.btn {
+  color: black !important;
+}
+
+.btn:hover {
+  color: black !important;
+}
